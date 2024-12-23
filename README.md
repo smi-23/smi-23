@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### :mailbox:Contact
+<a href="mailto:garamdev23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
+<a href="https://velog.io/@smi1991/posts" target="_blank"><img src="https://img.shields.io/badge/Blog-FA4335?style=flat-square&blogger&logoColor=white" ></a>
 <!--
 **smi-23/smi-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
